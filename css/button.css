@@ -1,0 +1,252 @@
+/*button——按钮*/
+.he_ulo .bt_li, .jianjie{
+	width: 82%;
+	text-align: center;
+}
+.he_ulo .jianjie p{
+	background: url(../images/index_03.jpg) no-repeat;
+	background-size:27%;
+	background-position: 30% 61%;
+	padding-left: 23%;
+	letter-spacing: 0;
+}
+#xq_p{
+	background-position: 39% 61%;
+}
+.he_ulo li p{
+	color: #318932;
+	font-size: 1.6rem;
+	letter-spacing: 0.2rem;
+}
+section ul li{
+	width: 94%;
+	overflow: hidden;
+	border-bottom: 1px dashed #f3f3f3;
+	padding: 0 1rem;
+	font-weight: normal;
+	
+}
+section ul li p{
+	width: 23%;
+	overflow: hidden;
+	float: left;
+	color: #318932;
+	font-size: 1.4rem;
+	line-height: 4.7rem;
+}
+section ul li nav{
+	width:76%;
+	overflow: hidden;
+	float: right;
+	border-left: 1px dashed #f3f3f3;
+	position: inherit;
+	padding-left: 0;
+}
+section ul li nav a{
+	width:6rem;
+	color: #818080;
+	font-size: 1.3rem;
+	line-height: 4rem;
+    font-weight: normal;
+    margin-left: 1.2rem;
+}
+section .bt_nav a{
+	line-height: 2.1rem;
+}
+section .button p{
+	padding-bottom: 2.6rem;
+}
+section .bt_nav{
+	padding:1rem 0 1rem 0;
+}
+section .bt_nav_a{
+	width: 8rem;
+}
+/*关于我们——企业简介*/
+.jj_nav .on{
+	color: #318932;
+}
+.jj_nav{
+	float: none;
+	width: 96%;
+	overflow: hidden;
+	margin: 0 auto;
+	padding: 0 2%;
+	background:#f1f1f1;
+}
+.jj_nav a{
+	width: 22%;
+	color: #2a2929;
+	font-weight: normal;
+	margin-left: 1rem;
+	text-align: center;
+	font-size: 1.5rem;
+	line-height: 3rem;
+}
+.about_jj{
+	width:96%;
+	overflow: hidden;
+	background: #FFFFFF;
+	padding: 0 2%;
+}
+.about_jj img, .guanyu{
+	width: 100%;
+	overflow: hidden;
+}
+.about_jj p{
+	color: #000000;
+	font-size: 1.4rem;
+	font-weight: normal;
+	line-height: 2.8rem;
+	margin: 1.5rem 0;
+}
+.about_jj .about_p{
+	margin-top: 0;
+}
+/*组织介绍*/
+.zuzhi{
+	width: 100%;
+	overflow: hidden;
+}
+.zuzhi img{
+	width: 100%;
+	overflow: hidden;
+}
+/*关于我们——专家介绍*/
+.zhuanjia{
+	width: 96%;
+	overflow: hidden;
+	margin: 0 auto;
+	
+}
+.zhuanjia dl{
+	width: 100%;
+	overflow: hidden;
+	margin-top: 5%;
+	border-bottom: 1px dashed #3a893b;
+}
+.zhuanjia dl dt{
+	width: 35%;
+	height: 100%;
+	float: left;
+}
+.zhuanjia dl dt img{
+	width: 100%;
+	height: 100%;
+}
+.zhuanjia dl dd{
+	width: 62%;
+	height: 6rem;
+	float: right;
+	color:#000000;
+	font-weight: normal;
+	font-size: 1.2rem;
+	white-space: nowrap; 
+}
+.zhuanjia dl dd b{
+	font-size: 1.4rem;
+}
+.zhuanjia dl dd p{
+	margin-top: 1rem;
+	overflow: hidden;
+	line-height: 1.8rem;
+}
+article .guanyu h1{
+	width:100%;
+	overflow: hidden;
+}
+article .guanyu h1 img{
+	width: 100%;
+	height: 100%;
+}
+article .guanyu p{
+	width: 96%;
+	margin: 0 auto;
+	color: #000000;
+	font-size: 1.3rem;
+	font-weight: normal;
+	margin-top: 8%;
+	line-height: 2.5rem;
+	letter-spacing: 0.05rem;
+}
+article .guanyu p b{
+	color: #318932;
+	font-size: 1.4rem;
+	font-weight: normal;
+}
+/*视频详情页面*/
+article section.xq{
+	width: 96%;
+	overflow: hidden;
+	padding: 5% 2%;
+	text-align: center;
+	background: #FFFFFF;
+	border-bottom:0.5rem solid #f3f2f2;
+}
+.xq p{
+	color: #000000;
+	font-weight: normal;
+	font-size: 1.6rem;
+	letter-spacing: 0.05rem;
+	line-height: 2rem;
+	margin-bottom: 0.8rem;
+}
+.xq b{
+	color: #5c615c;
+	font-size: 1.3rem;
+	font-weight: normal;
+}
+.xq video{
+	width: 100%;
+	overflow: hidden;
+}
+.xq h1{
+	width:50%;
+	overflow: hidden;
+	margin: 0 auto;
+	color: #5c615c;
+	letter-spacing: 0;
+	font-size: 1.3rem;
+	font-weight: normal;
+}
+.xq h1 img{
+	width: 100%;
+	overflow: hidden;
+}
+.xiangqing .hotspot{
+	margin-top:1rem;
+}
+/*新闻详情页面*/
+.xinwen{
+	width: 96%;
+	overflow: hidden;
+	margin: 0 auto;
+	background: #FFFFFF;
+	border: 1px solid red;
+}
+.xinwen p{
+	width: 100%;
+	overflow: hidden;
+	color: #5c615c;
+	font-size: 1.5rem;
+	font-weight: normal;
+	line-height: 2.8rem;
+	letter-spacing: 0.1rem;
+	margin-top: 5%;
+}
+.xinwen p b{
+	text-align: center;
+	color: #ff0101;
+	font-weight: normal;
+}
+.xinwen .xinwen_p{
+	margin-top: 0;
+	text-align: center;
+}
+.xinwen .xw_p{
+	text-align: center;
+}
+.xinwen .xw_p b{
+	color: #ff0101;
+	font-weight: normal;
+}

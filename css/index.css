@@ -1,0 +1,229 @@
+.headline dl{
+	width: 100%;
+	overflow: hidden;
+}
+.headline dl dt{
+	width: 39%;
+	overflow: hidden;
+	float: left;
+}
+.headline dl dt img{
+	width:100% ;
+	height: 100%;
+}
+.headline dl dd{
+	width:58%;
+	overflow: hidden;
+	float: right;	
+	color: #494949;
+}
+.headline dl dd b{
+	margin-top:3%;
+	display: block;
+	height: 4.5rem;
+	overflow: hidden;
+	font-size: 1.6rem;
+	line-height: 1.8rem;
+    letter-spacing: 0.1rem;
+}
+.headline dl dd p{
+	font-size: 1.2rem;
+	width: 3.2rem;	
+	text-align: center;
+	color: #c10e0e;
+	border: 1px solid red;
+	border-radius: 0.5rem;
+	line-height: 2rem;
+	letter-spacing: 0.1rem;
+	font-weight: normal;
+}
+.hl_dl{
+	margin-top: 1.2rem;
+}
+.newest, .hotspot{
+	width: 100%;
+	overflow: hidden;
+	margin: 0 auto;
+	padding:4% 0 ;
+	background: #FFFFFF;
+}
+.newest{
+	margin-bottom: 2.8%;
+}
+.hotspot{
+	padding-top: 0;
+}
+.newest h1, .hotspot h1{
+	color: #16700c;
+	font-size:1.8rem;
+	padding: 0;
+	line-height: 1.7rem;
+	padding-left: 2%;
+	border-left: 0.3rem solid #16700c;
+}
+.newest ul{
+	width: 96%;
+	overflow: hidden;
+	margin: 0 auto;
+	padding-top: 0.8rem;
+}
+.newest ul li{
+	width: 18%;
+	overflow: hidden;
+	float: left;
+	margin-left: 2.5%;	
+	
+}
+.newest ul li img{
+	width: 100%;
+	height: 100%;
+}
+.newest ul .ne_li{
+	margin-left: 0;
+}
+.hotspot hr{
+	width: 96%;
+	margin: 1.2% auto;
+	height:0.1rem;
+	border:none;
+	background:#eeeeee;
+}
+.hotspot dl{
+	width: 96%;
+	overflow: hidden;
+	margin: 0 auto;	
+	padding: 4% 0;
+	border-bottom: 0.1rem solid #EEEEEE;
+}
+.hotspot dl dt{
+	width: 35%;
+	overflow: hidden;
+	float: left;
+}
+.hotspot dl dt img{
+	width: 100%;
+	height: 100%;
+}
+.hotspot dl dd{
+	width: 60%;
+	overflow: hidden;
+	float: right;
+	color: #494949;
+	font-size: 1.4rem;
+}
+.hotspot dl dd span{
+	display: block;
+	width: 100%;
+	overflow: hidden;
+	height: 6.5rem;
+}
+.hotspot dl dd p{
+	color: #727272;
+	font-size:1.5rem;
+	float: left;
+	font-weight: normal;
+	font-size: 0.9rem;
+	letter-spacing: 0.05rem;
+}
+.hotspot dl dd .hot_p{
+	float: right;
+	overflow: hidden;
+	font-size: 1.2rem;
+}
+.hotspot dl dd .hot_pp{
+	border: 1px solid #16700c;
+	border-radius:0.5rem ;
+	padding: 0.3% 2%;
+	color: #16700c;
+	font-size: 1.2rem;
+}
+.hotspot h2{
+	width: 100%;
+	padding: 4% 0;
+	overflow: hidden;
+	border-bottom:0.5rem solid #f3f2f2;
+	text-align: center;	
+	font-weight: normal;
+	font-size: 1.4rem;
+}
+.hotspot h2 a{
+	color: #616161;
+}
+.hotspot ul{
+	width:96%;
+	overflow: hidden;
+	margin: 0 auto;
+}
+.hotspot ul li{
+	width: 100%;
+	overflow: hidden;
+	border-bottom: 1px dashed #ededed;
+	padding: 5% 0;
+	font-size: 1.4rem;
+	white-space: nowrap;
+	overflow: hidden;
+}
+.hotspot ul li a{
+	color: #494949;
+	font-weight: normal;
+}
+.hotspot h3{
+	width: 100%;
+	overflow: hidden;
+	border-bottom: 1.2rem solid #f3f2f2;
+}
+.hotspot h3 img{
+	width: 100%;
+	height: 18rem;
+}
+.video ul{
+	margin: 5%  0;
+}
+.video ul li{
+	width: 100%;
+	overflow: hidden;
+	margin-top: 3%;
+	position: relative;
+}
+.video ul li .video_img{
+	position:relative;
+	width: 100%;
+	overflow: hidden;
+}
+.video_img img{
+	width: 100%;
+	overflow: hidden;
+}
+.video ul li p{
+	color: #FFFFFF;
+	position: absolute;
+	width: 96%;
+	overflow: hidden;
+	background:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5),rgba(0,0,0,0));/*线性渐变*/
+	font-size: 1.3rem;
+	padding: 1.5% 2% 2.5% 2%;
+	top: 0;
+}
+.video ul li b{
+	position:absolute;
+	width: 4.5rem;
+	overflow: hidden;
+	top: 40%;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+}
+.video ul li b img{
+	width: 100%;
+	overflow: hidden;
+}
+/*政策*/
+.zhengce .zc_img{
+	width: 100%;
+	overflow: hidden;
+}
+.zhengce .zc_img img{
+	width: 100%;
+	overflow: hidden;
+}
